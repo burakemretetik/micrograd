@@ -1,4 +1,5 @@
 import random
+from graphviz import Digraph
 
 class Value:
     """ stores a single scalar value and its gradient """
